@@ -10,89 +10,64 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-black?logo=github)
 
+---
 
-A fun, fast, and interactive browser-based version of the classic Rock–Paper–Scissors game built using HTML, CSS, and JavaScript. <br />
-Play against the computer, track your score, and enjoy a clean, responsive UI with smooth animations.
+## 📌 Project Overview
+
+A fun, interactive, and browser-based implementation of the classic **Rock–Paper–Scissors** game built using **HTML, CSS, and JavaScript**.
+
+This project demonstrates core front-end development skills such as DOM manipulation, event handling, responsive design, and game logic implementation. Players can compete against the computer, track scores in real time, and enjoy a smooth user experience with clean animations.
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-![Screenshot of Rock Paper Scissors Game](./images/Screenshot/image.png)
+![Rock Paper Scissors Game Preview](./images/Screenshot/image.png)
 
 ---
 
 ## 🌐 Live Demo
 
-The project is live and can be played here: [Rock Paper Scissors Game](https://tonystark-19.github.io/Rock-paper-scissors/)
+🔗 **Play the game here:**  
+https://tonystark-19.github.io/Rock-paper-scissors/
 
 ---
 
 ## ✨ Features
 
-- **🤖 Play vs Computer** – Enjoy a quick match against a computer opponent.
-- **📱 Fully Responsive Design** – Optimized for desktops, tablets, and smartphones.
-- **🏆 Score Tracking** – Keeps a running tally of player and computer scores.
-- **📢 Instant Results** – Displays win, lose, or tie after each round.
-- **💡 Smooth Animations** – Enhanced user experience with simple animations.
-- **🎯 Replay Anytime** – Unlimited rounds to keep the fun going.
+- 🤖 Play against the computer
+- 🏆 Real-time score tracking
+- 📱 Fully responsive design
+- 📢 Instant result display (Win / Lose / Tie)
+- 🎨 Smooth UI animations
+- 🔁 Unlimited gameplay rounds
 
 ---
 
 ## 🧠 Game Rules
 
-- Rock beats Scissors
-- Scissors beat Paper
-- Paper beats Rock
-- Same choice = Tie
+- Rock beats Scissors  
+- Scissors beat Paper  
+- Paper beats Rock  
+- Same choice results in a Tie  
 
 ---
 
-## 💻 Technologies Used
+## 🛠️ Technologies Used
 
-- **HTML5** for structuring the content.
-- **CSS3** for styling the game and ensuring responsiveness.
-- **JavaScript** for handling game logic and interaction.
-
----
-
-## 🎮 How to Play
-
-1. Visit the Game [here](https://tonystark-19.github.io/Rock-paper-scissors/).
-2. Choose one of the options: **Rock**, **Paper**, or **Scissors**.
-3. The computer will randomly choose one as well.
-4. The result of the match will be displayed:
-   - **Rock beats Scissors**  
-   - **Scissors beat Paper**  
-   - **Paper beats Rock**
-5. The score is updated after each round.
-6. Play as many rounds as you'd like.
+- **HTML5** – Structure and layout  
+- **CSS3** – Styling and responsiveness  
+- **JavaScript (Vanilla JS)** – Game logic and interactivity  
+- **GitHub Pages** – Deployment
 
 ---
 
-## 🛠️ How to run on your own system
+## 🚀 Run Locally
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/TonyStark-19/Rock-paper-scissors.git
-   ```
 
-2. Navigate into the project folder:
 
-   ```bash
-   cd Rock-paper-scissors
-   ```
 
-3. Open `index.html` in your browser.
-
----
-
-## ⭐ Support
-
-If you enjoyed this project, please consider giving it a ⭐ star on GitHub. <br />
-Feedback and suggestions are always welcome!
-
----
-
-Made with ❤️ by Aditya chandel
+CREATED BY OM MULGE
