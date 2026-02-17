@@ -68,6 +68,15 @@ https://tonystark-19.github.io/Rock-paper-scissors/
    ```bash
    git clone https://github.com/TonyStark-19/Rock-paper-scissors.git
 
+Option 1: Open in Browser (Simplest)
+Just double-click index.html or right-click and select "Open with" your browser.
+
+Option 2: Use Python HTTP Server
+python -m http.server 8000
+Then open http://localhost:8000 in your browser.
+
+Option 3: Use Node.js HTTP Server
+npx http-server
 
 
 CREATED BY OM MULGE
