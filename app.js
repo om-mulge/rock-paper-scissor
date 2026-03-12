@@ -1,4 +1,4 @@
-// initialize scores of user and computer
+// initialize scores of user and computer...
 let userScore = 0;
 let compScore = 0;
 
