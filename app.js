@@ -2,7 +2,7 @@
 let userScore = 0;
 let compScore = 0;
 
-// chice and message
+// chice and message...
 const choices = document.querySelectorAll(".choice");
 const msg = document.querySelector("#msg");
 
